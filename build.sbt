@@ -16,7 +16,7 @@ libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.4.3"
 libraryDependencies += "org.apache.spark" %% "spark-graphx" % "2.4.3"
 
 // https://mvnrepository.com/artifact/org.apache.spark/spark-mllib
-libraryDependencies += "org.apache.spark" %% "spark-mllib" % "2.4.3" % "provided"
+libraryDependencies += "org.apache.spark" %% "spark-mllib" % "2.4.3"
 
 // https://mvnrepository.com/artifact/org.apache.spark/spark-streaming
 libraryDependencies += "org.apache.spark" %% "spark-streaming" % "2.4.3" % "provided"
